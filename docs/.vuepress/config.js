@@ -31,7 +31,8 @@ module.exports = {
       ],
       '/article/': [
         '',
-        'a',
+        '1',
+        '2',
       ],
     },
     
