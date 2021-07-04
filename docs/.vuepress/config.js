@@ -1,7 +1,7 @@
 module.exports = {
   lang: 'zh-CN',
   title: ' ',
-  description: ' ',
+  description: '分享当下，总结过去',
   base: '/',
   head: [
     // favicon
