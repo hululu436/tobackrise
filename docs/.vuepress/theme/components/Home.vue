@@ -20,6 +20,7 @@
 
       <p v-if="data.actionText && data.actionLink" class="action">
         <NavLink class="action-button" :item="actionLink" />
+        <a href="/article/" class="nav-link action-button">文章</a>
       </p>
     </header>
 
