@@ -22,7 +22,7 @@
         ></script>
         <div id="twikoo"></div>
         <script
-          src="https://cdn.jsdelivr.net/npm/twikoo@1.4.0/dist/twikoo.all.min.js"
+          src="https://cdn.jsdelivr.net/npm/twikoo@1.4.14/dist/twikoo.all.min.js"
           ref="twikooJs"
         ></script>
       </div>
